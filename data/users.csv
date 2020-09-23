@@ -1,0 +1,14 @@
+id,name,email,phone,username,password,role
+1,nick,nick@xyz,87986,nickster,12345,owner
+2,rick,rick@xyz,987687,rickster,12345,owner
+3,ricky,ricky@xyz,986798,rickying,12345,owner
+4,nicky,nicky@xyz,98678,nickying,12345,owner
+5,picky,picky@xyz,98678,pickying,12345,owner
+6,nilesh,nilesh@xyz,9867986,nileshizm,12345,admin
+7,abhinav,abhinav@xyz,98768976,absurdist_hero,12345,admin
+8,priyam,priyam@xyz,8585858,thatfatguy,12345,admin
+9,john,john@xyz,78687,john1,12345,user
+10,josh,jodh@xyz,8977,josh1,12345,user
+11,joshua,joshua@xyz,98999,joshua1,12345,user
+12,doug,doug@xyz,786896,doug1,12345,user
+13,david,davis@xyz,7686,david1,12345,user
